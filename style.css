@@ -399,7 +399,7 @@ section .title::after {
 /* skills section styling */
 
 .skills .title::after {
-    content: "who built this";
+    content: "People's view";
 }
 
 .skills .skills-content .column {
